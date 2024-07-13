@@ -1,0 +1,1 @@
+This coding is discord bot coding about organic and inorganic waste, you have to look for a picture of organic or inorganic waste, then type $check, then the item will appear including organic or inorganic
